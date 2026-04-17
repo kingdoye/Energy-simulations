@@ -1,5 +1,5 @@
 # Energy-simulations
-This is simulations that involve Battery systems and wind systems, all starting from the Rincon Mora and Gabriel A. model, using arbitrary values.
+This is simulations that involve Battery systems and wind systems, all starting from the Rincon Mora and Min chen model, using arbitrary values.
 It is a jupyter notebook with the blocks as follows:
 1. Rincon Mora and Gabrial A. model using a liner function instead of the given Exponential equation.
 2. Thermal lumped model of a battery system where the current value was altered to show its influence on temperature.
